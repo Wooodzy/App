@@ -53,6 +53,10 @@ is an already established platform with great functionality that could be tweake
 survey I created with 10 questions I asked if users use food applications to help choose what they want to eat, with 61 respondents 
 and over 73% saying yes.
 
+In an report by Mike Brown in 2017(Brown.M,2017) about the addictive nature of tinder he asked 10000 students why they use tinder with 45% responding
+with the use it for confidence boosting procrastination, it also reports that 72% of millennial college students have used tinder. This is 
+valuable data if I were to produce a food application with the same functionalities as tinder but orientate my development towards this 
+approach. 
 
 
 ![](https://github.com/Wooodzy/App/blob/master/Food-Mobile-Apps.PNG)
@@ -108,7 +112,7 @@ Meal cards stacked on top of each other with the allergy information, the user w
 like the best, the cards will be colour co-ordinated dependant ingredients. Meat dishes will be red, fish will be blue, vegan will be green, and 
 vegetarian will be orange, the cards will also have symbols that represent allergies such as shellfish, gluten, milk, egg or nuts.
 
-![](https://github.com/Wooodzy/App/blob/master/wf7.png)
+!(https://github.com/Wooodzy/App/blob/master/wf7.png)
 
 This idea took inspiration from tinder, utilizing the swipe feature to choose a a dish. Once the card has been chosen the user will 
 click the card to enlarge it and it will give details on the closet restaurant that sells the dish including the information regarding
@@ -152,3 +156,30 @@ If a user chooses a card it will open up the users mobile mapping application an
 
 ![](https://github.com/Wooodzy/App/blob/master/idea3.png)
 
+
+
+[link with title](https://deliveroo.co.uk/restaurants/southampton/southampton-city-centre?postcode=SO14+3ET "Deliveroo")
+
+[link with title](https://tinder.com/?lang=en-GB/ "Tinder")
+
+[link with title](https://www.elitedaily.com/news/technology/youre-addicted-tinder/676465 "Elite Dailty - Youre Addictided to Tinder")
+
+[link with title](https://www.bbc.co.uk/bbcthree/article/a0abe5ca-ad4b-4c08-8a10-a616480711ff "BBC-I’m addicted to dating apps – but I don’t want a date")
+
+[link with title](https://www.ubereats.com/en-GB/stores/ "Uber Eats")
+
+[link with title](https://www.uber.com/gb/en/ "Uber")
+
+[link with title](https://www.tripadvisor.co.uk/ "Trip Advisor")
+
+[link with title](https://www.opentable.com/ "Open Table Booking")
+
+[link with title](https://www.just-eat.co.uk/?hw-redirected=636912750538121805 "Just Eat")
+
+[link with title](https://www.bookatable.co.uk/ "Book A Table")
+
+[link with title](https://tasty.co/ "Tasty")
+
+[link with title](https://toogoodtogo.co.uk/en-gb "Too Good To Go")
+
+[link with title](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
