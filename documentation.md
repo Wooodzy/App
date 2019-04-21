@@ -10,6 +10,7 @@ I created a survey that asks users 10 questions about how and what they use to o
 choose food and what they feel about certain applications that are used most. 
 
 | Survey Question | Justification |
+| ------ | ----------- |
 |Do you struggle with choosing where you want to eat?|Users often get stuck with choice paralysis in which they can’t choose a place to eat quickly or at all causing them stress or others.|
 |Do you use mobile food applications to help you choose what you want to eat?|Users use delivery services applications to assist them in choosing what they want to eat.|
 |How many times a week do you order food or go out to eat?|This could suggest the target audience for such an application. |
@@ -64,7 +65,7 @@ a softer more subtle transition through the application, it would also benefit t
 counterpart colours cause less glare in a low light situation. 
 
 
-#Wire Frame Concepts
+## Wire Frame Concepts
 
 First initial concept was to have multiple cards in a grid, each card would have a different dish from a different country to represent the style of food.
 This option has its benefits as you could have a vast range of different dishes on the screen at one time, but the layout is very simple. It can still be
@@ -120,7 +121,7 @@ route to the chosen restaurant.
 
 !(https://github.com/Wooodzy/App/blob/master/mb1.jpg)
 
-#Hi-Fidelity Wire Frames
+## Hi-Fidelity Wire Frames
 
 This mock-up of the first wireframe idea, the tiled wireframe and the scroll bar wireframe. The application would have 3 different 
 scrolling bars the user swipes up or down on until they find the dish they want. 
