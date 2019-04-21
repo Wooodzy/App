@@ -158,28 +158,28 @@ If a user chooses a card it will open up the users mobile mapping application an
 
 
 
-[link with title](https://deliveroo.co.uk/restaurants/southampton/southampton-city-centre?postcode=SO14+3ET "Deliveroo")
+["Deliveroo"](https://deliveroo.co.uk/restaurants/southampton/southampton-city-centre?postcode=SO14+3ET "Deliveroo")
 
-[link with title](https://tinder.com/?lang=en-GB/ "Tinder")
+["Tinder"](https://tinder.com/?lang=en-GB/ "Tinder")
 
-[link with title](https://www.elitedaily.com/news/technology/youre-addicted-tinder/676465 "Elite Dailty - Youre Addictided to Tinder")
+["Elite Dailty - Youre Addictided to Tinder"](https://www.elitedaily.com/news/technology/youre-addicted-tinder/676465 "Elite Dailty - Youre Addictided to Tinder")
 
-[link with title](https://www.bbc.co.uk/bbcthree/article/a0abe5ca-ad4b-4c08-8a10-a616480711ff "BBC-I’m addicted to dating apps – but I don’t want a date")
+["BBC-I’m addicted to dating apps – but I don’t want a date"](https://www.bbc.co.uk/bbcthree/article/a0abe5ca-ad4b-4c08-8a10-a616480711ff "BBC-I’m addicted to dating apps – but I don’t want a date")
 
-[link with title](https://www.ubereats.com/en-GB/stores/ "Uber Eats")
+["Uber Eats"](https://www.ubereats.com/en-GB/stores/ "Uber Eats")
 
-[link with title](https://www.uber.com/gb/en/ "Uber")
+["Uber"](https://www.uber.com/gb/en/ "Uber")
 
-[link with title](https://www.tripadvisor.co.uk/ "Trip Advisor")
+["Trip Advisor"](https://www.tripadvisor.co.uk/ "Trip Advisor")
 
-[link with title](https://www.opentable.com/ "Open Table Booking")
+["Open Table Booking"](https://www.opentable.com/ "Open Table Booking")
 
-[link with title](https://www.just-eat.co.uk/?hw-redirected=636912750538121805 "Just Eat")
+["Just Eat"](https://www.just-eat.co.uk/?hw-redirected=636912750538121805 "Just Eat")
 
-[link with title](https://www.bookatable.co.uk/ "Book A Table")
+["Book A Table"](https://www.bookatable.co.uk/ "Book A Table")
 
-[link with title](https://tasty.co/ "Tasty")
+["Tasty"](https://tasty.co/ "Tasty")
 
-[link with title](https://toogoodtogo.co.uk/en-gb "Too Good To Go")
+["Too Good To Go"](https://toogoodtogo.co.uk/en-gb "Too Good To Go")
 
-[link with title](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
+["Is Tinder a Match for Millennials?"](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
