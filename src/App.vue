@@ -34,6 +34,10 @@ body {
   
 }
 
+.back{
+  padding:10%;
+}
+
 .vue-star-rating {
   justify-content: center;
 }
@@ -86,7 +90,7 @@ body {
 
 
 .first{
-        height:100vh;
+        min-height:100vh;
         width:50%;
         background:#404E5C;
         position: relative;
@@ -100,7 +104,7 @@ body {
       }
 
        .second{
-         height:100vh;
+         min-height:100vh;
          width:50%;
          background:#B7C3F3;
          position: relative;
@@ -113,7 +117,7 @@ body {
       }
 
   .third{
-        height:100vh;
+       min-height:100vh;
         width:50%;
         background:#4F6272;
         position: relative;
