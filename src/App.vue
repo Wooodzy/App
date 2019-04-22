@@ -26,13 +26,16 @@ body {
     src: url(MOD20.TTF);
   }
 .vue-star-rating-star {
-    width: 80%;
+    width: 100%;
     display:flex;
      align-items:center;
      margin:auto!important;
   
 }
 
+.vue-star-rating {
+  justify-content: center;
+}
 .meat{
       width:200px;
       height:200px;
