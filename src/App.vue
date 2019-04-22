@@ -12,6 +12,7 @@
 body {
   padding: 0;
   margin: 0;
+  background-color:#DD7596;
 }
 * {
   box-sizing: border-box;
