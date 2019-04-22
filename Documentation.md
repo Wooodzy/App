@@ -1,8 +1,11 @@
 ### Check Documentation on Github for images. 
+Word count = 2100 (Survey Questions in table)
 
 ["Application Link to Github"](https://github.com/Wooodzy/App.git)
 
 ["Application Link"](https://fooder-bd633.firebaseapp.com/#/)
+
+
 
 
 # Inspiration
@@ -50,10 +53,6 @@ of the 61 respondents saying they use Uber Eats for a delivery service, it’s s
 to Uber(Uber, n.d.) itself. I will create a web application that is stylish and elegant compared to current web 
 applications and I will utilise functionalities of different JavaScript libraries and a range of web programming paradigms
 that just allows users to effortlessly choose what they want to eat.
-
-The key in designing a good product is to utilize colours and the material design aesthetic to create something different
-for users to use. The application will stay simple due to time constraints and the fact it’s just an application that helps
-users with deciding but also informs them on a range of different establishments they can eat at. 
 
 For reference I looked at popular mobile applications that could be developed into having another purpose. Tinder (Tinder, n.d.)
 is an already established platform with great functionality that could be tweaked into something innovative for food lovers. In a
