@@ -112,7 +112,7 @@ Meal cards stacked on top of each other with the allergy information, the user w
 like the best, the cards will be colour co-ordinated dependant ingredients. Meat dishes will be red, fish will be blue, vegan will be green, and 
 vegetarian will be orange, the cards will also have symbols that represent allergies such as shellfish, gluten, milk, egg or nuts.
 
-!(https://github.com/Wooodzy/App/blob/master/wf7.png)
+![](https://github.com/Wooodzy/App/blob/master/wf7.png)
 
 This idea took inspiration from tinder, utilizing the swipe feature to choose a a dish. Once the card has been chosen the user will 
 click the card to enlarge it and it will give details on the closet restaurant that sells the dish including the information regarding
@@ -187,7 +187,7 @@ If a user chooses a card it will open up the users mobile mapping application an
 ["Is Tinder a Match for Millennials?"](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
 
 
-![](https://github.com/Wooodzy/App/blob/master/questionnaire-results.jpg)
+![](https://github.com/Wooodzy/App/blob/master/Questionnaire-results.jpg)
 
 ## User Testing Feedback
 
