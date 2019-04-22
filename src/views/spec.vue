@@ -257,14 +257,10 @@
     }
     
     
-      #all{
-      font-family: myFirstFont;
-      font-size:108px;
-      color: white;
+       #all{
       background-color:#DD7596;
-      position: fixed;
-      width:100%;
-      height: 100%;
+      width:100vw;
+      min-height: 100vh;
       left: 0;
       top: 0;
       
