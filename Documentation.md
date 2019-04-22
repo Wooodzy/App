@@ -183,6 +183,9 @@ If a user chooses a card it will open up the users mobile mapping application an
 ["Too Good To Go"](https://toogoodtogo.co.uk/en-gb "Too Good To Go")
 
 ["Is Tinder a Match for Millennials?"](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
+<<<<<<< HEAD
 
 
 ![](https://github.com/Wooodzy/App/blob/master/questionnaire-results.jpg)
+=======
+>>>>>>> e9bd56bad8b79b81df1aa491ea7b45f4fdd03019
