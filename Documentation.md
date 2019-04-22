@@ -135,6 +135,8 @@ be types, then then second screen of each type will have different dishes or sty
 of the restaurant of establishment which sells it.
 
 The backside of the cards will be slate similar to current modern restaurants who serve dishes on them.
+The back would display average rating system that would pull ratings from google but currently not implemented
+aswel as allergy information.
 
 ![](https://github.com/Wooodzy/App/blob/master/idea1.png)
 
@@ -186,3 +188,23 @@ If a user chooses a card it will open up the users mobile mapping application an
 
 
 ![](https://github.com/Wooodzy/App/blob/master/questionnaire-results.jpg)
+
+## User Testing Feedback
+
+### User 1 
+* Issues found with coloums not filling the full screen when the windows height and width is changed dramatically.
+* Rating system should be on the front of the card to let users know which dish they have rated instead of flipping the card over to see. 
+* When the browser is dramatically changed, the user is not able to scroll up to see the information on the top 3 cards. 
+* On screen back button to go back to types page.
+* Application dosent remember the users rating after they close the application.(average rating system would pull ratings from google but currently not implemented)
+* Hyper link the address on the back of the cards (future implementation)
+* New logo on establishments that have recently opened.
+* Tags on which type of cuisine it is (Autoura Api didnt contain such dependencies)
+
+### User 2
+* Cards should be on hover not on click
+* Needs a back button
+* Names on top of or infront of the cards cause its just kind of random like youre completely guessing for each one.
+* decent for a prototype small app changes should be made into futher production. 
+
+
