@@ -1,4 +1,8 @@
+### Check Documentation on Github for images. 
+
 ["Application Link to Github"](https://github.com/Wooodzy/App.git)
+
+["Application Link"](https://fooder-bd633.firebaseapp.com/#/)
 
 
 # Inspiration
@@ -161,6 +165,49 @@ If a user chooses a card it will open up the users mobile mapping application an
 
 ![](https://github.com/Wooodzy/App/blob/master/idea3.png)
 
+
+## Questionnaire Results
+
+![](https://github.com/Wooodzy/App/blob/master/Questionnaire-results.jpg)
+
+## User Testing Feedback
+
+### User 1 
+* Issues found with coloums not filling the full screen when the windows height and width is changed dramatically.
+* Rating system should be on the front of the card to let users know which dish they have rated instead of flipping the card over to see. 
+* When the browser is dramatically changed, the user is not able to scroll up to see the information on the top 3 cards. 
+* On screen back button to go back to types page.
+* Application dosent remember the users rating after they close the application.(average rating system would pull ratings from google but currently not implemented)
+* Hyper link the address on the back of the cards (future implementation)
+* New logo on establishments that have recently opened.
+* Tags on which type of cuisine it is (Autoura Api didnt contain such dependencies)
+
+### User 2
+* Cards should be on hover not on click
+* Needs a back button
+* Names on top of or infront of the cards cause its just kind of random like youre completely guessing for each one.
+* Decent for a prototype small app changes should be made into futher production.
+* Refresh button so the user does not have to close and reopen the application to get a different selection of places to try. 
+
+### User 3
+* At certain screen sizes the UI was really clunky (only 3 icons on screen).
+* UI could make use of space a bit better.
+* No explanation for anything? Seems confusing. I clicked on a category and was met with random pictures with no idea what they were supposed to be.
+* Clicking on a rating turns the picture back around, which isn't what I'd presume it's supposed to do.
+* No back button? I can't work out how I am supposed to navigate around.
+* Some text on the images is a bit hard to read.
+
+User Feedback testing reflection, The testers brought up some good points. The responsiveness of the website could be better while in mobile and the opacity function 
+dosent work as intended in mobile. The UI could be improved with ratings on the front of the card with the data being kept within a cookie for example, all testers brought
+up the same issue with not having a back button to get back to the previous page of the typs. 
+
+The application can feel slow to load due to having the individual images for each card stored in the application, this could be fixed by storing the images on the cloud instead
+of the app itself. The hyper linked addresses would be a good feature for future implementation as well as the application pulling ratings from google to give users a sense of 
+satisfaction and peace of mind knowing that their choice is rated highly by others. More information should be added on the front of the card to do with the dishes with clearer
+font face used.
+
+
+
 ## Hyperlinks of references
 
 ["Deliveroo"](https://deliveroo.co.uk/restaurants/southampton/southampton-city-centre?postcode=SO14+3ET "Deliveroo")
@@ -188,27 +235,3 @@ If a user chooses a card it will open up the users mobile mapping application an
 ["Too Good To Go"](https://toogoodtogo.co.uk/en-gb "Too Good To Go")
 
 ["Is Tinder a Match for Millennials?"](https://lendedu.com/blog/tinder-match-millennials/ "Is Tinder a Match for Millennials?")
-
-## Questionnaire Results
-
-![](https://github.com/Wooodzy/App/blob/master/Questionnaire-results.jpg)
-
-## User Testing Feedback
-
-### User 1 
-* Issues found with coloums not filling the full screen when the windows height and width is changed dramatically.
-* Rating system should be on the front of the card to let users know which dish they have rated instead of flipping the card over to see. 
-* When the browser is dramatically changed, the user is not able to scroll up to see the information on the top 3 cards. 
-* On screen back button to go back to types page.
-* Application dosent remember the users rating after they close the application.(average rating system would pull ratings from google but currently not implemented)
-* Hyper link the address on the back of the cards (future implementation)
-* New logo on establishments that have recently opened.
-* Tags on which type of cuisine it is (Autoura Api didnt contain such dependencies)
-
-### User 2
-* Cards should be on hover not on click
-* Needs a back button
-* Names on top of or infront of the cards cause its just kind of random like youre completely guessing for each one.
-* decent for a prototype small app changes should be made into futher production. 
-
-
