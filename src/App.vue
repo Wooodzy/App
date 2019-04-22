@@ -34,9 +34,6 @@ body {
   
 }
 
-.back{
-  padding:10%;
-}
 
 .vue-star-rating {
   justify-content: center;
@@ -108,7 +105,6 @@ body {
          width:50%;
          background:#B7C3F3;
          position: relative;
-        padding: 20px;
         align-items: center;
         justify-content: center;
         display: flex;
@@ -123,7 +119,6 @@ body {
         position: relative;
         float:right;
         box-shadow: 0 0 8px 0 #4F6272, 0 0 0 0 #4F6272;
-        padding: 20px;
         align-items: center;
         justify-content: center;
         display: flex;
